@@ -1,0 +1,15 @@
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bin\Debug\ReverseMap\resources.pri
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bin\Debug\AppxManifest.xml
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bin\Debug\JumpOnTheCloud.windows8.build.appxrecipe
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\priconfig.xml
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\priconfig.xml.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\layout.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\layout.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\resources.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\resources.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\pri.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\pri.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\qualifiers.txt
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\qualifiers.txt.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud.windows8\bld\Debug\ProjectArchitectures.txt

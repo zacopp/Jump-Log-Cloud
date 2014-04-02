@@ -1,0 +1,15 @@
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bin\Debug\ReverseMap\resources.pri
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bin\Debug\AppxManifest.xml
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bin\Debug\Test.build.appxrecipe
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\priconfig.xml
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\priconfig.xml.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\layout.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\layout.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\resources.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\resources.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\pri.resfiles
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\pri.resfiles.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\qualifiers.txt
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\qualifiers.txt.intermediate
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\Test\bld\Debug\ProjectArchitectures.txt

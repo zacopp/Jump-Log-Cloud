@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZCR2DEVSERVER</Machine>
+    <WindowsUser>zacopp</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>13302acf-2a0f-4b86-af21-d9e6250360f5</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.css">
+      <PackagePath>pages\fileOpenPicker\fileOpenPicker.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\filepicker\filepicker.css">
+      <PackagePath>pages\filepicker\filepicker.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.css">
+      <PackagePath>pages\hub\hub.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.css">
+      <PackagePath>pages\MSCharm\MSCharm.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.css">
+      <PackagePath>pages\PickShoot\PickShoot.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.css">
+      <PackagePath>pages\section\section.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\item\item.css">
+      <PackagePath>pages\item\item.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\gray.png">
+      <PackagePath>images\gray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\OneDrive_Icon.jpg">
+      <PackagePath>images\OneDrive_Icon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\pane1bg.jpg">
+      <PackagePath>images\pane1bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\pane2logo.jpg">
+      <PackagePath>images\pane2logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.js">
+      <PackagePath>pages\fileOpenPicker\fileOpenPicker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\filepicker\filepicker.js">
+      <PackagePath>pages\filepicker\filepicker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.js">
+      <PackagePath>pages\hub\hub.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.js">
+      <PackagePath>pages\MSCharm\MSCharm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.js">
+      <PackagePath>pages\PickShoot\PickShoot.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.js">
+      <PackagePath>pages\section\section.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\item\item.js">
+      <PackagePath>pages\item\item.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.html">
+      <PackagePath>pages\fileOpenPicker\fileOpenPicker.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\filepicker\filepicker.html">
+      <PackagePath>pages\filepicker\filepicker.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.html">
+      <PackagePath>pages\hub\hub.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.html">
+      <PackagePath>pages\MSCharm\MSCharm.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.html">
+      <PackagePath>pages\PickShoot\PickShoot.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.html">
+      <PackagePath>pages\section\section.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\item\item.html">
+      <PackagePath>pages\item\item.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

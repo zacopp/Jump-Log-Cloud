@@ -30,7 +30,7 @@
 
             // TODO: Initialize the page here.
 			hubs1button2.onclick = function () {
-                WinJS.Navigation.navigate("/pages/filepicker/filepicker.html")
+                WinJS.Navigation.navigate("/pages/createJump/createJump.html")
 				}
         },
 

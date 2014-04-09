@@ -1,5 +1,7 @@
 css\default.css
+data\scratchpad.txt
 default.html
+Fonts\LiveSymbol.ttf
 images\gray.png
 images\logo.scale-100.png
 images\OneDrive_Icon.jpg
@@ -10,7 +12,16 @@ images\splashscreen.scale-100.png
 images\storelogo.scale-100.png
 js\data.js
 js\default.js
+js\MobileServices.intellisense.js
+js\MobileServices.js
+js\MobileServices.min.js
+js\MobileServices.pri
 js\navigator.js
+js\wl.js
+packages.config
+pages\createJump\createJump.css
+pages\createJump\createJump.html
+pages\createJump\createJump.js
 pages\fileOpenPicker\fileOpenPicker.css
 pages\fileOpenPicker\fileOpenPicker.html
 pages\fileOpenPicker\fileOpenPicker.js
@@ -23,12 +34,7 @@ pages\hub\hub.js
 pages\item\item.css
 pages\item\item.html
 pages\item\item.js
-pages\MSCharm\MSCharm.css
-pages\MSCharm\MSCharm.html
-pages\MSCharm\MSCharm.js
-pages\PickShoot\PickShoot.css
-pages\PickShoot\PickShoot.html
-pages\PickShoot\PickShoot.js
 pages\section\section.css
 pages\section\section.html
 pages\section\section.js
+services\mobile services\jumponthecloud\service.js

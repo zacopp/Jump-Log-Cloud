@@ -28,3 +28,4 @@ C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bl
 C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bld\Debug\qualifiers.txt.intermediate
 C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bld\Debug\ProjectArchitectures.txt
+C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bld\Debug\MobileServices.pri.xml

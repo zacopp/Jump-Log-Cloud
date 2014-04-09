@@ -17,6 +17,9 @@
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.css">
+      <PackagePath>pages\createJump\createJump.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.css">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.css</PackagePath>
     </AppxPackagedFile>
@@ -26,17 +29,17 @@
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.css">
       <PackagePath>pages\hub\hub.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.css">
-      <PackagePath>pages\MSCharm\MSCharm.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.css">
-      <PackagePath>pages\PickShoot\PickShoot.css</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.css">
       <PackagePath>pages\section\section.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\item\item.css">
       <PackagePath>pages\item\item.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\data\scratchpad.txt">
+      <PackagePath>data\scratchpad.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\Fonts\LiveSymbol.ttf">
+      <PackagePath>Fonts\LiveSymbol.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
@@ -72,8 +75,23 @@
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\wl.js">
+      <PackagePath>js\wl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.js">
+      <PackagePath>pages\createJump\createJump.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.js">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.js</PackagePath>
@@ -84,17 +102,20 @@
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.js">
       <PackagePath>pages\hub\hub.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.js">
-      <PackagePath>pages\MSCharm\MSCharm.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.js">
-      <PackagePath>pages\PickShoot\PickShoot.js</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.js">
       <PackagePath>pages\section\section.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\item\item.js">
       <PackagePath>pages\item\item.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\services\mobile services\jumponthecloud\service.js">
+      <PackagePath>services\mobile services\jumponthecloud\service.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.html">
+      <PackagePath>pages\createJump\createJump.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.html">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.html</PackagePath>
@@ -104,12 +125,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.html">
       <PackagePath>pages\hub\hub.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\MSCharm\MSCharm.html">
-      <PackagePath>pages\MSCharm\MSCharm.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\PickShoot\PickShoot.html">
-      <PackagePath>pages\PickShoot\PickShoot.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\section\section.html">
       <PackagePath>pages\section\section.html</PackagePath>

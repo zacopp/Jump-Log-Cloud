@@ -8,6 +8,8 @@
     var nav = WinJS.Navigation;
     var sched = WinJS.Utilities.Scheduler;
     var ui = WinJS.UI;
+    app.jumpstring = '';
+    app.jumpnum = 1;
 
     app.addEventListener("activated", function (args) {
         if (args.detail.kind === activation.ActivationKind.launch) {

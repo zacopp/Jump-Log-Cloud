@@ -17,7 +17,7 @@
     <AppXManifest Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-04-09T17:46:44.936</Modified>
+      <Modified>2014-04-10T21:11:09.300</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -27,7 +27,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.css">
       <PackagePath>pages\createJump\createJump.css</PackagePath>
-      <Modified>2014-04-09T17:28:16.604</Modified>
+      <Modified>2014-04-10T19:55:54.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.css">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.css</PackagePath>
@@ -99,7 +99,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2014-04-08T17:05:14.396</Modified>
+      <Modified>2014-04-10T21:03:54.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\js\MobileServices.intellisense.js">
       <PackagePath>js\MobileServices.intellisense.js</PackagePath>
@@ -123,7 +123,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.js">
       <PackagePath>pages\createJump\createJump.js</PackagePath>
-      <Modified>2014-04-09T17:48:06.503</Modified>
+      <Modified>2014-04-10T21:16:26.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.js">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.js</PackagePath>
@@ -131,7 +131,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\filepicker\filepicker.js">
       <PackagePath>pages\filepicker\filepicker.js</PackagePath>
-      <Modified>2014-04-09T17:46:43.067</Modified>
+      <Modified>2014-04-10T21:03:55.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\hub\hub.js">
       <PackagePath>pages\hub\hub.js</PackagePath>
@@ -155,7 +155,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\createJump\createJump.html">
       <PackagePath>pages\createJump\createJump.html</PackagePath>
-      <Modified>2014-04-09T17:48:43.598</Modified>
+      <Modified>2014-04-10T21:01:27.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\pages\fileOpenPicker\fileOpenPicker.html">
       <PackagePath>pages\fileOpenPicker\fileOpenPicker.html</PackagePath>
@@ -179,11 +179,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2014-04-09T17:21:23.216</Modified>
+      <Modified>2014-04-10T21:11:06.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zacopp\Documents\GitHub\Jump-Log-Cloud\JumpOnTheCloud\JumpOnTheCloud\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-04-09T17:46:44.627</Modified>
+      <Modified>2014-04-10T21:11:09.057</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

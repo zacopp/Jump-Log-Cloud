@@ -11,6 +11,7 @@
             document.querySelector(".filepicker #open").onclick = function (e) {
                 openPicker.pickSingleFileAsync().then(function (file) {
                     var result = document.querySelector(".filepicker #result");
+                    var testy = app.jumpstring;
                     if (file) {
                         var img = document.querySelector(".filepicker img");
                         img.src = URL.createObjectURL(file);
